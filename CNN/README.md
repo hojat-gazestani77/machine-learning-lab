@@ -4,6 +4,9 @@ This project is a simple Convolutional Neural Network (CNN) built using TensorFl
 
 ---
 
+## Related theory
+[Note repository](https://github.com/hojat-gazestani/Notes/blob/main/machine-learning/01-foundations/02-CCN-theory.md)
+
 ## 📂 Project Structure
 
 ```txt
