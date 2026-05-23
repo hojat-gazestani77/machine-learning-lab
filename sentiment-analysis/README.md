@@ -14,7 +14,7 @@ Understand how transformer sentiment models work.
 
 ## Related Notes
 
-https://github.com/hojat-gazestani/Notes/blob/main/machine-learning/01-foundations/02-llm-transformers.md
+[Here I explaine the theory](https://github.com/hojat-gazestani/Notes/blob/main/machine-learning/01-foundations/02-llm-transformers.md)
 
 ## Experiments
 
